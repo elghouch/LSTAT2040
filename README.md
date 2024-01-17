@@ -1,4 +1,5 @@
-LSTAT2040: Inférence Statistique et Vraisemblance
+LSTAT2040   
+Inférence Statistique et Vraisemblance
 ================
 
 :zap: Notes de cours: voir le dosier [Lectures](https://github.com/elghouch/LSTAT2040/tree/main/Lectures)
