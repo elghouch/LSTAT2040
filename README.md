@@ -1,4 +1,3 @@
-LSTAT2040   
 Inférence Statistique et Vraisemblance
 ================
 
