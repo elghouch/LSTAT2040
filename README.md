@@ -7,8 +7,9 @@ Inférence Statistique et Vraisemblance
 
 :zap: Examens antérieurs: voir le dosier [Exams](https://github.com/elghouch/LSTAT2040/tree/main/ExamWithSolForStud)
 
-<!--
 :zap: Documents complémentaires: voir le dosier [Docs](https://github.com/elghouch/LSTAT2040/tree/main/Docs)
+
+<!--
 
 :zap: Examens antérieurs: voir le dosier [Exams](https://github.com/elghouch/LSTAT2040/tree/main/Exams)
 -->
